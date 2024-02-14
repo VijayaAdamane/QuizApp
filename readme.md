@@ -23,25 +23,6 @@ This is a simple quiz app built using HTML, CSS, and JavaScript. It allows users
 - CSS
 - JavaScript
 
-
-## Getting Started
-
-To run the quiz app locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/quiz-app.git
-    ```
-
-2. Open the project folder:
-
-    ```bash
-    cd quiz-app
-    ```
-
-3. Open the `index.html` file in a web browser.
-
 ## Quiz Questions
 
 The quiz includes a set of sample questions related to different topics. You can customize the questions by modifying the `questions` array in the `script.js` file.
